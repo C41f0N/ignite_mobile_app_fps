@@ -1,6 +1,6 @@
 # ignite_mobile_app_fps
 
-A fluter-firebase mobile app for FPS A-Level's annual euntreprenuership summit.
+A fluter-firebase mobile app for FPS A-Level's annual euntreprenuership summit, FPS Ignite.
 
 The app was privately created by Sarim Ahmed as a college project.
 
