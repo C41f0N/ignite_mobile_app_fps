@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516805975832",
+    "project_id": "fps-ignite-mobile-app",
+    "storage_bucket": "fps-ignite-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516805975832:android:81d36bdb026c2a8349086d",
+        "android_client_info": {
+          "package_name": "com.fps.ignite_mobile_app_fps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516805975832-8djilrh7fqrvj3jujr3s7ao8ttkhl1os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe9YO7M-Jt7oOJTM4ksYqKSBfReWGBpG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516805975832-8djilrh7fqrvj3jujr3s7ao8ttkhl1os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
