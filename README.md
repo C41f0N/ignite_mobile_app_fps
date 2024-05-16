@@ -1,9 +1,7 @@
-# ignite_mobile_app_fps
+<h1>
+  FPS Ignite 8.0 Mobile App (Discontinued - <a href="https://github.com/thenoisyninga/fps_ignite_mobile_app_2">See Updated Version</a>)
+</h1>
 
 A fluter-firebase mobile app for FPS A-Level's annual euntreprenuership summit, FPS Ignite.
 
-The app was privately created by Sarim Ahmed as a college project.
-
-# Getting Started
-
-These files can be run in android studio, after changing some code for compatibility
+It is discontinued and is replaced by <a href="https://github.com/thenoisyninga/fps_ignite_mobile_app_2">a newer build</a>.
