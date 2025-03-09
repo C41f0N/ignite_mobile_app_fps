@@ -15,4 +15,4 @@ https://github.com/user-attachments/assets/d75c3cbc-eac5-47f0-9990-3542992fad06
 ## Tech Stack
 The front-end is made in Flutter, while the backend is made in Firebase. Python is used for scripts needed to register transcations, populating the database and broadcasting notifications to logged in users.
 
-Backend Scripts in <a href="https://github.com/C41f0N/Ignite_Mobile_App_Backend_Scripts">this<a/> repository.
+Backend scripts in <a href="https://github.com/C41f0N/Ignite_Mobile_App_Backend_Scripts">this<a/> repository.
