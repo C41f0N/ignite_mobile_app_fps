@@ -6,7 +6,7 @@ A mobile app made for Foundation Public School A-Level's entrepreneurship summit
 Participants can...
   - Login using the provided credentials.
   - Keep track of their ICs (Ignite Currency) through a realtime transaction history.
-  - Use their ICs to rent the shooting sets they need to create TV advertisements for thier product.
+  - Use their ICs to rent the shooting sets they need to create TV advertisements for their product.
   - Stay updated through the broadcasting system implemented within the app, to stay connected throughout the summit.
 
 ## Promotion Video
